@@ -14,7 +14,7 @@ local moonlight = {
 	pink =          '#ecb2f0',
 
 	bg =            'NONE',
-	bg_alt =        '#1B1E2B',
+	bg_alt =        'NONE',
 	fg =            '#e4f3fa',
 	text =          '#757dac',
 	comments =      '#7486d6',
